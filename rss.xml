@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[primeobjective]]></title>
         <description><![CDATA[primeobjective]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/primeobjective/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 11:01:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 11:47:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/primeobjective/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b544c9f-16a4-49ed-ba8d-e204fe53f4fd.jpg">]]></description>
+            <link>https://thegrid.ai/primeobjective/dublin-swimming-baths/index.html</link>
+            <guid isPermaLink="false">ecaef156-720e-4258-99d9-212348dab5c4</guid>
+            <pubDate>Sat, 14 May 2016 11:46:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tim Shaw Exhibition]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d44b7d5-7f9e-4f64-b969-95d4b5dfd438.jpg">]]></description>
-            <link>undefinedtim-shaw-exhibition/index.html</link>
+            <link>https://thegrid.ai/primeobjective/tim-shaw-exhibition/index.html</link>
             <guid isPermaLink="false">e54b7ce9-8160-4da3-a5b5-6c7104a61074</guid>
             <pubDate>Sat, 14 May 2016 11:01:05 GMT</pubDate>
         </item>
